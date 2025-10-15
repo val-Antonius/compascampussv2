@@ -1,6 +1,30 @@
 # CompassCampus - Sistem Registrasi Mata Kuliah
 
-Aplikasi web untuk pengelolaan registrasi mata kuliah kampus.
+Aplikasi web untuk pengelolaan registrasi mata kuliah kampus role mhs dan admin.
+
+## 🌐 Preview
+
+### 🖥️ mhs
+![Dashboard mhs](https://raw.githubusercontent.com/val-Antonius/compascampussv2/main/public/preview1.png)
+
+### 🖥️ mhs
+![Katalog](https://raw.githubusercontent.com/val-Antonius/compascampussv2/main/public/preview2.png)
+
+### 🖥️ mhs
+![Detail](https://raw.githubusercontent.com/val-Antonius/compascampussv2/main/public/preview3.png)
+
+### 🖥️ admin
+![Dashboard mhs](https://raw.githubusercontent.com/val-Antonius/compascampussv2/main/public/preview4.png)
+
+### 🖥️ admin
+![Katalog](https://raw.githubusercontent.com/val-Antonius/compascampussv2/main/public/preview5.png)
+
+### 🖥️ admin
+![Detail](https://raw.githubusercontent.com/val-Antonius/compascampussv2/main/public/preview6.png)
+
+### 🖥️ login/regiter
+![Detail](https://raw.githubusercontent.com/val-Antonius/compascampussv2/main/public/preview7.png)
+
 
 ## Fitur Utama
 
